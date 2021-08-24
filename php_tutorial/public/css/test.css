@@ -1,0 +1,64 @@
+.box {
+    border:2px solid #ffffff;
+    height:500px;
+    margin:20px;
+    width:1000px;  
+    border-radius:30px;
+}
+.box div{
+   display: table-column;
+   float: left;
+   height: 100px;
+   text-align: center;
+   vertical-align: middle;
+   width: 1100px;
+}
+
+.ao {
+   background:#7a9ee0;
+   border-radius:24px;
+   border: solid 1px #000
+}
+
+.ak {
+   background-color:#F00;
+   border-radius:24px;
+}
+
+.md{
+   background-color:#090;
+   border-radius:24px;
+}
+.cya{
+   background-color:peru;
+   border: solid 2px rgb(0, 0, 0);
+   border-radius:24px;
+}
+
+
+
+.containera{
+   display: flex;
+    }
+
+input {
+   display: block;
+   margin-top: 10px;
+ }
+ .cya  button{
+   border: solid 2px rgb(0, 26, 255);
+   margin-top: 31px;
+   margin-left: 900px;
+ }
+
+
+.child button{
+   float: right;
+   margin-top: 30px;
+   border-radius:7px;
+   margin-right: 27px;
+
+}
+td{
+   padding-top:15px;
+}
